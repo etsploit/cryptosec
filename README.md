@@ -12,12 +12,26 @@ Repository | Description
 ---- | ----
 [Blank](Null) 			| Description here
 
+## Scanners (For Code and Smart Contracts)
+
+Repository | Description
+---- | ----
+[Slither](https://github.com/crytic/slither) 			| Static Analyzer for Solidity
+[Mythril](https://github.com/ConsenSys/mythril) 			| Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
+[Theo](https://github.com/cleanunicorn/theo) 			| Ethereum recon and exploitation tool.
+[SmartCheck](https://github.com/smartdec/smartcheck) 			| Deprecated: SmartCheck – a static analysis tool that detects vulnerabilities and bugs in Solidity programs (Ethereum-based smart contracts).
+[Securify v2.0](https://github.com/eth-sri/securify2) 			| Security scanner for Ethereum smart contracts 
+[Oyente](https://github.com/enzymefinance/oyente) 			| An Analysis Tool for Smart Contracts
+
+
+
 ## Crypto Specific CTFs and Games
 
 CTF | Description
 ---- | ----
 [Capture the Ether](https://capturetheether.com/) 			| Capture the Ether is a game in which you hack Ethereum smart contracts to learn about security.
 [Damn Vulnerabel Defi](https://github.com/tinchoabbate/damn-vulnerable-defi) 			| A set of challenges to hack implementations of DeFi in Ethereum
+
 
 
 ## Good News Sources 
