@@ -10,9 +10,14 @@ The best way to use this repo is open it as a vault using https://obsidian.md/ b
 
 Repository | Description
 ---- | ----
-[Damn Vulnerabel Defi](https://github.com/tinchoabbate/damn-vulnerable-defi) 			| A set of challenges to hack implementations of DeFi in Ethereum.
+[Blank](Null) 			| Description here
 
+## Crypto Specific CTFs and Games
 
+CTF | Description
+---- | ----
+[Capture the Ether](https://capturetheether.com/) 			| Capture the Ether is a game in which you hack Ethereum smart contracts to learn about security.
+[Damn Vulnerabel Defi](https://github.com/tinchoabbate/damn-vulnerable-defi) 			| A set of challenges to hack implementations of DeFi in Ethereum
 
 
 ## Good News Sources 
