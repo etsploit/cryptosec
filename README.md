@@ -32,6 +32,7 @@ CTF | Description
 [Capture the Ether](https://capturetheether.com/) 			| Capture the Ether is a game in which you hack Ethereum smart contracts to learn about security.
 [Damn Vulnerabel Defi](https://github.com/tinchoabbate/damn-vulnerable-defi) 			| A set of challenges to hack implementations of DeFi in Ethereum
 [Paradigm CTF 2021](https://github.com/paradigm-operations/paradigm-ctf-2021) 			| Official repository for Paradigm CTF 2021
+[Ethernaut](https://ethernaut.openzeppelin.com/) 			| Web3/Solidity based wargame inspired on overthewire.org, played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
 
 
 ## Good News Sources 
