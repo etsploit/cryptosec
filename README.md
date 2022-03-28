@@ -35,5 +35,9 @@ CTF | Description
 [Ethernaut](https://ethernaut.openzeppelin.com/) 			| Web3/Solidity based wargame inspired on overthewire.org, played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
 
 
+## Solana Specific Security
+Thanks [@0xsanny](https://twitter.com/0xsanny) for putting this repo together https://github.com/0xsanny/solsec
+
+
 ## Good News Sources 
 - https://rekt.news/
