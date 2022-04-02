@@ -38,6 +38,11 @@ CTF | Description
 ## Solana Specific Security
 Thanks [@0xsanny](https://twitter.com/0xsanny) for putting this repo together https://github.com/0xsanny/solsec
 
+Repository | Description
+---- | ----
+[Metaplex Vuln 01/22](https://github.com/Bonfida/metaplex-vulnerability-012022) 			| Write up of Metaplex Vuln from 012022
+
+
 
 ## Good News Sources 
 - https://rekt.news/
