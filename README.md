@@ -42,6 +42,7 @@ Repository | Description
 ---- | ----
 [Metaplex Vuln 01/22](https://github.com/Bonfida/metaplex-vulnerability-012022) 			| Write up of Metaplex Vuln from 012022
 
+Solend Auditing Workshop- https://docs.google.com/presentation/d/1jZ9kVo6hnhBsz3D2sywqpMojqLE5VTZtaXna7OHL1Uk/mobilepresent?slide=id.ge292ecb5c9_0_160
 
 
 ## Good News Sources 
