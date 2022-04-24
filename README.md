@@ -10,7 +10,7 @@ The best way to use this repo is open it as a vault using https://obsidian.md/ b
 
 Repository | Description
 ---- | ----
-[Blank](Null) 			| Description here
+[Not So Smart Contracts](https://github.com/crytic/not-so-smart-contracts) 			| Examples of Solidity security issues
 
 ## Scanners (For Code and Smart Contracts)
 
